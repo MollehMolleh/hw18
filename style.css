@@ -133,7 +133,7 @@ body {
   }
   
 
-/* Optional: Add media query for responsiveness */
+/* Media query for responsiveness */
 @media screen and (max-width: 768px) {
     .left-column, .right-column {
         flex-basis: 100%;
